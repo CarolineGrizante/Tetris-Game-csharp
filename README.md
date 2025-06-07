@@ -31,6 +31,7 @@ Um clássico jogo de Tetris desenvolvido em C# utilizando Windows Forms. O jogo 
 <img src="ImagesTetris/Tetris-2.png" width="800"/>
 <img src="ImagesTetris/Tetris-3.png" width="800"/> 
 <img src="ImagesTetris/Tetris-4.png" width="800"/>
+<img src="ImagesTetris/Tetris-5.gif" width="800"/>
 
 ---
 
